@@ -3,6 +3,7 @@
 
 内容包括：
 
+- 提取PE文件信息
 
 参考文章：
 - [[安全攻防进阶篇] 七.恶意样本检测之编写代码自动提取IAT表、字符串及时间戳溯源](https://blog.csdn.net/Eastmount/article/details/107948592)
